@@ -29,8 +29,6 @@ public class Main {
     }
 
     private static void printText(String... textList) {
-
-
         for(String t : textList) {
             System.out.println(t);
         }
